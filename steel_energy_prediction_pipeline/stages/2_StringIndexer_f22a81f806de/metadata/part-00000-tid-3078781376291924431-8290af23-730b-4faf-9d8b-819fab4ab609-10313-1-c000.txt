@@ -1,0 +1,1 @@
+{"class":"org.apache.spark.ml.feature.StringIndexer","timestamp":1723192779547,"sparkVersion":"3.5.0","uid":"StringIndexer_f22a81f806de","paramMap":{"inputCol":"WeekStatus","outputCol":"WeekStatus_index"},"defaultParamMap":{"stringOrderType":"frequencyDesc","handleInvalid":"error","outputCol":"StringIndexer_f22a81f806de__output"}}
